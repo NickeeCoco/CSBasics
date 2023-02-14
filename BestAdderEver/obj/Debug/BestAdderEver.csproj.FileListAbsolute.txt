@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\BestAdderEver\bin\Debug\BestAdderEver.exe.config
+G:\Code\git\CSBasics\BestAdderEver\bin\Debug\BestAdderEver.exe
+G:\Code\git\CSBasics\BestAdderEver\bin\Debug\BestAdderEver.pdb
+G:\Code\git\CSBasics\BestAdderEver\obj\Debug\BestAdderEver.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\BestAdderEver\obj\Debug\BestAdderEver.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\BestAdderEver\obj\Debug\BestAdderEver.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\BestAdderEver\obj\Debug\BestAdderEver.exe
+G:\Code\git\CSBasics\BestAdderEver\obj\Debug\BestAdderEver.pdb
