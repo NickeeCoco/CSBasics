@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABeginning", "ABeginning\ABeginning.csproj", "{EB8B6540-12ED-4847-9029-6F461CD02A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectGutenberg", "ProjectGutenberg\ProjectGutenberg.csproj", "{267A6EEF-4A46-4D7B-9DA3-9449D697A0F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EB8B6540-12ED-4847-9029-6F461CD02A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8B6540-12ED-4847-9029-6F461CD02A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8B6540-12ED-4847-9029-6F461CD02A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267A6EEF-4A46-4D7B-9DA3-9449D697A0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A6EEF-4A46-4D7B-9DA3-9449D697A0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A6EEF-4A46-4D7B-9DA3-9449D697A0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A6EEF-4A46-4D7B-9DA3-9449D697A0F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

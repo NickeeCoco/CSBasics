@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\ProjectGutenberg\bin\Debug\ProjectGutenberg.exe.config
+G:\Code\git\CSBasics\ProjectGutenberg\bin\Debug\ProjectGutenberg.exe
+G:\Code\git\CSBasics\ProjectGutenberg\bin\Debug\ProjectGutenberg.pdb
+G:\Code\git\CSBasics\ProjectGutenberg\obj\Debug\ProjectGutenberg.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\ProjectGutenberg\obj\Debug\ProjectGutenberg.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\ProjectGutenberg\obj\Debug\ProjectGutenberg.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\ProjectGutenberg\obj\Debug\ProjectGutenberg.exe
+G:\Code\git\CSBasics\ProjectGutenberg\obj\Debug\ProjectGutenberg.pdb
