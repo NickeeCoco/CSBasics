@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\TheOrderOfThings\bin\Debug\TheOrderOfThings.exe.config
+G:\Code\git\CSBasics\TheOrderOfThings\bin\Debug\TheOrderOfThings.exe
+G:\Code\git\CSBasics\TheOrderOfThings\bin\Debug\TheOrderOfThings.pdb
+G:\Code\git\CSBasics\TheOrderOfThings\obj\Debug\TheOrderOfThings.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\TheOrderOfThings\obj\Debug\TheOrderOfThings.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\TheOrderOfThings\obj\Debug\TheOrderOfThings.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\TheOrderOfThings\obj\Debug\TheOrderOfThings.exe
+G:\Code\git\CSBasics\TheOrderOfThings\obj\Debug\TheOrderOfThings.pdb
