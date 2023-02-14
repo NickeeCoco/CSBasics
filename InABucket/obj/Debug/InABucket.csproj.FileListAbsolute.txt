@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\InABucket\bin\Debug\InABucket.exe.config
+G:\Code\git\CSBasics\InABucket\bin\Debug\InABucket.exe
+G:\Code\git\CSBasics\InABucket\bin\Debug\InABucket.pdb
+G:\Code\git\CSBasics\InABucket\obj\Debug\InABucket.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\InABucket\obj\Debug\InABucket.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\InABucket\obj\Debug\InABucket.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\InABucket\obj\Debug\InABucket.exe
+G:\Code\git\CSBasics\InABucket\obj\Debug\InABucket.pdb
