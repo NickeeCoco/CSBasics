@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\CommentingCode\bin\Debug\CommentingCode.exe.config
+G:\Code\git\CSBasics\CommentingCode\bin\Debug\CommentingCode.exe
+G:\Code\git\CSBasics\CommentingCode\bin\Debug\CommentingCode.pdb
+G:\Code\git\CSBasics\CommentingCode\obj\Debug\CommentingCode.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\CommentingCode\obj\Debug\CommentingCode.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\CommentingCode\obj\Debug\CommentingCode.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\CommentingCode\obj\Debug\CommentingCode.exe
+G:\Code\git\CSBasics\CommentingCode\obj\Debug\CommentingCode.pdb
