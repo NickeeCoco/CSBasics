@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\MoreBucketsMoreFun\bin\Debug\MoreBucketsMoreFun.exe.config
+G:\Code\git\CSBasics\MoreBucketsMoreFun\bin\Debug\MoreBucketsMoreFun.exe
+G:\Code\git\CSBasics\MoreBucketsMoreFun\bin\Debug\MoreBucketsMoreFun.pdb
+G:\Code\git\CSBasics\MoreBucketsMoreFun\obj\Debug\MoreBucketsMoreFun.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\MoreBucketsMoreFun\obj\Debug\MoreBucketsMoreFun.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\MoreBucketsMoreFun\obj\Debug\MoreBucketsMoreFun.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\MoreBucketsMoreFun\obj\Debug\MoreBucketsMoreFun.exe
+G:\Code\git\CSBasics\MoreBucketsMoreFun\obj\Debug\MoreBucketsMoreFun.pdb
