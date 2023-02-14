@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\MenuOfChampions\bin\Debug\MenuOfChampions.exe.config
+G:\Code\git\CSBasics\MenuOfChampions\bin\Debug\MenuOfChampions.exe
+G:\Code\git\CSBasics\MenuOfChampions\bin\Debug\MenuOfChampions.pdb
+G:\Code\git\CSBasics\MenuOfChampions\obj\Debug\MenuOfChampions.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\MenuOfChampions\obj\Debug\MenuOfChampions.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\MenuOfChampions\obj\Debug\MenuOfChampions.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\MenuOfChampions\obj\Debug\MenuOfChampions.exe
+G:\Code\git\CSBasics\MenuOfChampions\obj\Debug\MenuOfChampions.pdb
