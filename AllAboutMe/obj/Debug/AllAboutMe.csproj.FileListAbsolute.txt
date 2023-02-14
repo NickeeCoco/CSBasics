@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\AllAboutMe\bin\Debug\AllAboutMe.exe.config
+G:\Code\git\CSBasics\AllAboutMe\bin\Debug\AllAboutMe.exe
+G:\Code\git\CSBasics\AllAboutMe\bin\Debug\AllAboutMe.pdb
+G:\Code\git\CSBasics\AllAboutMe\obj\Debug\AllAboutMe.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\AllAboutMe\obj\Debug\AllAboutMe.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\AllAboutMe\obj\Debug\AllAboutMe.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\AllAboutMe\obj\Debug\AllAboutMe.exe
+G:\Code\git\CSBasics\AllAboutMe\obj\Debug\AllAboutMe.pdb
