@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\AllTheMaths\bin\Debug\AllTheMaths.exe.config
+G:\Code\git\CSBasics\AllTheMaths\bin\Debug\AllTheMaths.exe
+G:\Code\git\CSBasics\AllTheMaths\bin\Debug\AllTheMaths.pdb
+G:\Code\git\CSBasics\AllTheMaths\obj\Debug\AllTheMaths.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\AllTheMaths\obj\Debug\AllTheMaths.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\AllTheMaths\obj\Debug\AllTheMaths.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\AllTheMaths\obj\Debug\AllTheMaths.exe
+G:\Code\git\CSBasics\AllTheMaths\obj\Debug\AllTheMaths.pdb
