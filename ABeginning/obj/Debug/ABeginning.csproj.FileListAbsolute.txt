@@ -1,0 +1,8 @@
+G:\Code\git\CSBasics\ABeginning\bin\Debug\ABeginning.exe.config
+G:\Code\git\CSBasics\ABeginning\bin\Debug\ABeginning.exe
+G:\Code\git\CSBasics\ABeginning\bin\Debug\ABeginning.pdb
+G:\Code\git\CSBasics\ABeginning\obj\Debug\ABeginning.csproj.AssemblyReference.cache
+G:\Code\git\CSBasics\ABeginning\obj\Debug\ABeginning.csproj.SuggestedBindingRedirects.cache
+G:\Code\git\CSBasics\ABeginning\obj\Debug\ABeginning.csproj.CoreCompileInputs.cache
+G:\Code\git\CSBasics\ABeginning\obj\Debug\ABeginning.exe
+G:\Code\git\CSBasics\ABeginning\obj\Debug\ABeginning.pdb
